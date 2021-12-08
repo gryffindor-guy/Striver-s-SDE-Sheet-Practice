@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/maximum-subarray/
-class maxSubArray {
+class MaxSubArray {
     public int maxSubArray(int[] nums) {
         int currSum = 0;
         int maxSum = Integer.MIN_VALUE;
